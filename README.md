@@ -59,9 +59,14 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+![328116399-ca5bd4ce-2520-4ae3-bf92-67d44cbba5c1](https://github.com/Swetha733N/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/122199934/0f6545c9-9eb9-41c6-8f57-05cab219e233)
+![328116416-9eb4721c-f45a-4b19-8afb-1b7e27cdf437](https://github.com/Swetha733N/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/122199934/629f431e-3a8e-4445-aa5c-3da835b71ae4)
+![328116426-8c4ad361-312d-42ca-bfc2-55ebaaa55c3d](https://github.com/Swetha733N/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/122199934/ebafaff6-c3c5-4e9c-b2c4-9e5e216866e1)
+![328116445-018f1885-aef6-4443-a9e9-9a8e213a6c7c](https://github.com/Swetha733N/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/122199934/9076695d-4943-4b8e-a290-675dcbc10b43)
 
-### Name: 
-### Register Number:
+
+### Name: SWETHA N
+### Register Number:212222110050
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
